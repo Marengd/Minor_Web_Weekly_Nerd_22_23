@@ -1,13 +1,9 @@
 # Weekly Nerd Minor Web Design And Development 2023, Notes And Articles Archive.
 
 <br>
-
-###### Note.
-Visit The Archive, using the following <a href="https://github.com/Marengd/Minor_Web_Weekly_Nerd_22_23/wiki">Link To Wiki</a>
-
-<br>
 <br>
 
+###### Table Of Contents, Weekly Nerds And Articles.
 ### Table Of Contents.
 
 <br>
