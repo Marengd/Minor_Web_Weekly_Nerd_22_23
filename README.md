@@ -3,7 +3,7 @@
 <br>
 
 ###### Note.
-Visit The Archive, using the following URL: <a href="https://github.com/Marengd/Minor_Web_Weekly_Nerd_22_23/wiki">
+Visit The Archive, using the following <a href="https://github.com/Marengd/Minor_Web_Weekly_Nerd_22_23/wiki">Link To Wiki</a>
 
 <br>
 <br>
